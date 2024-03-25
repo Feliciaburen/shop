@@ -1,0 +1,14 @@
+C:\Users\felicia.buren\github-classroom\TE21C-spel-prog-2\Uppgift 1\shop\bin\Debug\net7.0\shop.exe
+C:\Users\felicia.buren\github-classroom\TE21C-spel-prog-2\Uppgift 1\shop\bin\Debug\net7.0\shop.deps.json
+C:\Users\felicia.buren\github-classroom\TE21C-spel-prog-2\Uppgift 1\shop\bin\Debug\net7.0\shop.runtimeconfig.json
+C:\Users\felicia.buren\github-classroom\TE21C-spel-prog-2\Uppgift 1\shop\bin\Debug\net7.0\shop.dll
+C:\Users\felicia.buren\github-classroom\TE21C-spel-prog-2\Uppgift 1\shop\bin\Debug\net7.0\shop.pdb
+C:\Users\felicia.buren\github-classroom\TE21C-spel-prog-2\Uppgift 1\shop\obj\Debug\net7.0\shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felicia.buren\github-classroom\TE21C-spel-prog-2\Uppgift 1\shop\obj\Debug\net7.0\shop.AssemblyInfoInputs.cache
+C:\Users\felicia.buren\github-classroom\TE21C-spel-prog-2\Uppgift 1\shop\obj\Debug\net7.0\shop.AssemblyInfo.cs
+C:\Users\felicia.buren\github-classroom\TE21C-spel-prog-2\Uppgift 1\shop\obj\Debug\net7.0\shop.csproj.CoreCompileInputs.cache
+C:\Users\felicia.buren\github-classroom\TE21C-spel-prog-2\Uppgift 1\shop\obj\Debug\net7.0\shop.dll
+C:\Users\felicia.buren\github-classroom\TE21C-spel-prog-2\Uppgift 1\shop\obj\Debug\net7.0\refint\shop.dll
+C:\Users\felicia.buren\github-classroom\TE21C-spel-prog-2\Uppgift 1\shop\obj\Debug\net7.0\shop.pdb
+C:\Users\felicia.buren\github-classroom\TE21C-spel-prog-2\Uppgift 1\shop\obj\Debug\net7.0\shop.genruntimeconfig.cache
+C:\Users\felicia.buren\github-classroom\TE21C-spel-prog-2\Uppgift 1\shop\obj\Debug\net7.0\ref\shop.dll
